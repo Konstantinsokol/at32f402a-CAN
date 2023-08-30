@@ -1,4 +1,4 @@
-# at32f402a-CAN
+# at32f403a-CAN
 CAN bus for connecting AT32F403A and raspberry pi 4
 
 В папке CanBus расположено два проекта
